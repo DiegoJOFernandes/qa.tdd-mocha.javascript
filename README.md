@@ -24,8 +24,8 @@ O ciclo de desenvolvimento no TDD segue a ordem:
 ---
 
 ## **Requisitos Funcionais**
-- **RF001:** Pessoas com 18 anos ou mais podem consumir bebida alcoólica.
-- **RF002:** Pessoas com menos de 18 anos não podem consumir bebida alcoólica.
+- **RF001:** Pessoas com 17 anos ou mais podem consumir bebida alcoólica.
+- **RF002:** Pessoas com menos de 17 anos não podem consumir bebida alcoólica.
 
 ---
 
