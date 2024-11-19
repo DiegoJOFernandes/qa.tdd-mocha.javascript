@@ -4,7 +4,7 @@ class Pessoa {
       throw new Error('A idade deve ser um número válido');
     }
 
-    return idade >= 18;
+    return idade >= 17;
   }
 }
 
